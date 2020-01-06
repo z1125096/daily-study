@@ -1,8 +1,47 @@
 
  > daily-study 每日一问
 
+ [online book](http://cmszlx.win/daily-book/)
+
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
+
 #### issues
+* #### 2020-01-03
+ [108. 容器(如 docker)与虚拟机有什么不同？](https://github.com/zlx362211854/daily-study/issues/164) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
+* #### 2020-01-02
+ [107. 快排算法](https://github.com/zlx362211854/daily-study/issues/163) （`Created by` [goldEli](https://github.com/goldEli)）
+
+* #### 2019-12-31
+ [106.react hooks 中如何模拟 componentDidMount](https://github.com/zlx362211854/daily-study/issues/162) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
+* #### 2019-12-30
+ [105. 把 m 个同样的苹果分放在 n 个同样的篮子里，允许有的蓝子空 着不放，共有多少种不同的分法？](https://github.com/zlx362211854/daily-study/issues/161) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
+* #### 2019-12-27
+ [104. 国家公祭日页面置灰](https://github.com/zlx362211854/daily-study/issues/160) （`Created by` [goldEli](https://github.com/goldEli)）
+
+* #### 2019-12-26
+ [103.实现归并排序](https://github.com/zlx362211854/daily-study/issues/159) （`Created by` [o1wish](https://github.com/o1wish)）
+
+* #### 2019-12-25
+ [102.http proxy 的原理是什么](https://github.com/zlx362211854/daily-study/issues/158) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
+* #### 2019-12-24
+ [101.  说说typescript](https://github.com/zlx362211854/daily-study/issues/157) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
+* #### 2019-12-23
+ [100. What's the output and why ?](https://github.com/zlx362211854/daily-study/issues/156) （`Created by` [goldEli](https://github.com/goldEli)）
+
+* #### 2019-12-20
+ [99.场景分析](https://github.com/zlx362211854/daily-study/issues/155) （`Created by` [o1wish](https://github.com/o1wish)）
+
+* #### 2019-12-18
+ [98. 说一说一些常见的跨域场景](https://github.com/zlx362211854/daily-study/issues/154) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
+* #### 2019-12-17
+ [97. What's the output and why?](https://github.com/zlx362211854/daily-study/issues/153) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-12-16
  [96. 算法题](https://github.com/zlx362211854/daily-study/issues/152) （`Created by` [o1wish](https://github.com/o1wish)）
 
@@ -56,41 +95,5 @@
 
 * #### 2019-11-20
  [79. 说说 ES6 Iterator](https://github.com/zlx362211854/daily-study/issues/127) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-11-19
- [78. useImperativeHandle](https://github.com/zlx362211854/daily-study/issues/123) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-11-18
- [77. 谈谈对 React Suspense 的理解和看法](https://github.com/zlx362211854/daily-study/issues/121) （`Created by` [o1wish](https://github.com/o1wish)）
-
-* #### 2019-11-14
- [76.  Js有哪些作用域？](https://github.com/zlx362211854/daily-study/issues/118) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-11-13
- [75. getElementById 和 querySelector 有什么区别？](https://github.com/zlx362211854/daily-study/issues/117) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-11-12
- [74.前端如何通过网页启动本地 PC 应用](https://github.com/zlx362211854/daily-study/issues/116) （`Created by` [o1wish](https://github.com/o1wish)）
-
-* #### 2019-11-11
- [73.在 ES6 中使用展开(spread)语法有什么好处? 它与剩余(rest)语法有什么不同?](https://github.com/zlx362211854/daily-study/issues/115) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-11-08
- [72. var c = d = 'xx' 这样声明变量有什么问题？](https://github.com/zlx362211854/daily-study/issues/114) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-11-07
- [71. 深克隆](https://github.com/zlx362211854/daily-study/issues/112) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-11-06
- [70.Fetch 与 Ajax 的对比](https://github.com/zlx362211854/daily-study/issues/111) （`Created by` [o1wish](https://github.com/o1wish)）
-
-* #### 2019-11-05
- [69.['1', '2', '3'].map(parseInt)的输出结果是什么？['1', '2', '3'].fliter(parseInt)的输出结果是什么？为什么？](https://github.com/zlx362211854/daily-study/issues/109) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-11-04
- [68. 说说grid布局和flex布局，grid布局和flex布局优劣势，各有什么适用场景？](https://github.com/zlx362211854/daily-study/issues/108) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-11-01
- [67. Web Worker 优化性能](https://github.com/zlx362211854/daily-study/issues/107) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
